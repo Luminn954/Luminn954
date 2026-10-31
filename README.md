@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile-banner.svg" alt="Kyross — Web and Android" width="100%" />
+</p>
+
 # Kyross 👋
 
 Ngulik web & Android.
